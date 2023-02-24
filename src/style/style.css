@@ -149,7 +149,7 @@ box-shadow: 0 9px 9px rgba(255, 127, 80, .5);
  color: black;
  font-size: 16px;
  transition: 0.4s;
- line-height:;
+ line-height:0.5wh;
  width: 240px;
 
 }
@@ -164,7 +164,7 @@ box-shadow: 0 9px 9px rgba(255, 127, 80, .5);
 .dropdown-menu {
   background: #8706bf;
   padding: 10px 20px;
- box-shadow: 0 5px 10px rgba(0, 0, 0, .2)
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
   border-radius: 10px;
   width: 130px;
   visibility: hidden;
